@@ -1,6 +1,6 @@
 {
   "name": "zoskit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fast and lightweight UI component kit for ZeppOS",
   "main": "src/index.js",
   "type": "module",
@@ -20,6 +20,19 @@
     "fast",
     "yardev"
   ],
+  "exports": {
+    ".": "./src/index.js",
+    "./AboutPageComponent": "./src/AboutPageComponent/index.js",
+    "./ColorPaletteComponent": "./src/ColorPaletteComponent/index.js",
+    "./DigitInputComponent": "./src/DigitInputComponent/index.js",
+    "./DocumentationDemos": "./src/DocumentationDemos/index.js",
+    "./UiBar": "./src/UiBar/index.js",
+    "./UiCompositor": "./src/UiCompositor/index.js",
+    "./UiListView": "./src/UiListView/index.js",
+    "./UiShapeAwareButtons": "./src/UiShapeAwareButtons/index.js",
+    "./UiSliderComponent": "./src/UiSliderComponent/index.js",
+    "./UiTextComponent": "./src/UiTextComponent/index.js"
+  },
   "author": "yardev",
   "license": "MIT",
   "zeppos": true
