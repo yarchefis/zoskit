@@ -1,0 +1,17 @@
+{
+  "name": "@yardev/zoskit",
+  "version": "0.1.0",
+  "description": "Fast and lightweight UI component kit for ZeppOS",
+  "main": "src/index.js",
+  "keywords": [
+    "zeppos",
+    "ui",
+    "kit",
+    "components",
+    "fast",
+    "yardev"
+  ],
+  "author": "yardev",
+  "license": "MIT",
+  "zeppos": true
+}
