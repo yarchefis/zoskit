@@ -1,11 +1,12 @@
 {
   "name": "zoskit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fast and lightweight UI component kit for ZeppOS",
   "main": "src/index.js",
   "type": "module",
   "files": [
-    "src/"
+    "src/",
+    "assets/"
   ],
   "repository": {
     "type": "git",
