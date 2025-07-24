@@ -1,8 +1,16 @@
 {
-  "name": "@yardev/zoskit",
+  "name": "zoskit",
   "version": "0.1.0",
   "description": "Fast and lightweight UI component kit for ZeppOS",
   "main": "src/index.js",
+  "type": "module",
+  "files": [
+    "src/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yarchefis/zoskit.git"
+  },
   "keywords": [
     "zeppos",
     "ui",
